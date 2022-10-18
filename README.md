@@ -1,3 +1,3 @@
 # git-collaborations-demo
 
-Added a new line
+Added one new line
